@@ -1,0 +1,9 @@
+[submodule "submodules/linearizator"]
+	path = submodules/linearizator
+	url = https://github.com/RDCH106/linearizator.git
+[submodule "submodules/funny_button"]
+	path = submodules/funny_button
+	url = https://github.com/RDCH106/funny_button.git
+[submodule "submodules/hidden_console_start"]
+	path = submodules/hidden_console_start
+	url = https://github.com/RDCH106/hidden_console_start.git
